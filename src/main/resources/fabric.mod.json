@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/oxidized",
-    "sources": "https://github.com/Safrodev/oxidized"
+    "sources": "https://github.com/Safrodev/oxidized",
+    "issues": "https://github.com/Safrodev/oxidized/issues"
   },
 
   "license": "GNU General Public License v3.0",
